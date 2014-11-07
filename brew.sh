@@ -88,6 +88,9 @@ brew install tree
 brew install webkit2png
 brew install zopfli
 
+brew install python
+brew install python3
+
 # Install Node.js. Note: this installs `npm` too, using the recommended
 # installation method.
 # brew install node
